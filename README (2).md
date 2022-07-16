@@ -88,6 +88,11 @@ b) Check if any column has zero standard deviation, remove such columns as we di
 4. Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 
 5. Once the prediction is made for all the clusters, the predictions along with the Wafer names are saved in a CSV file at a given location and the location is returned to the client.
+## Deployment
+Refer Document
+
+Link : https://docs.google.com/document/d/1guRWgUsgWmC8cZWF6jkYZsNZsVuYURUj/edit
+
 ## New Environment creation
 Open command prompt.Go to the file location and follow the commands 
 ```bash
